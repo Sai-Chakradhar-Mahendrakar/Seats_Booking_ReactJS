@@ -105,9 +105,9 @@ const Coach = () => {
             </div>
           );
         })}
-        <h1>GitHub Link: https://github.com/Sai-Chakradhar-Mahendrakar/Seats_Booking_ReactJS</h1>
       </div>
     </div>
+    <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Seats_Booking_ReactJS"><h1>Github Link</h1></a>
   );
 };
 
